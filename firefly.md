@@ -1,15 +1,16 @@
-## Project firefly
+## Project firefly  
+
+![KBL2201](https://github.com/knguyen13/KBL/docs/images/KBL2201_layout.PNG "pcb layout")  
 
 Automatic light. Designed to brighten up our lightless storage closet.
 
-***Brief***
+***Brief***  
 Lights up the closet when the door is opened and turns off when the door is closed.
 
-***Design***
-An stm32l0 mcu polls a magnetic sensor(reed switch) to detect when the door is opened or closed.
-When door open is detected, the mcu will activate the relay to connect the 12V Li-Ion battery to the light bar;
+***Design***  
+An stm32l0 mcu polls a magnetic sensor(reed switch) to detect when the door is opened or closed. When door open is detected, the mcu will activate the relay to connect the 12V Li-Ion battery to the light bar;
 
-***Wishlist***
+***Wishlist***  
 * Firmware Upgrades:
     * Add timer to automatically turn off after 5 minutes in case user has forgotten to close the door.
     * Add low power mode with wakeup on interrupt to conserve energy while not in use.
