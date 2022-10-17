@@ -1,6 +1,6 @@
 ## Project firefly  
 
-![KBL2201](/docs/images/KBL2201_layout.PNG "pcb layout")  
+![KBL2201](https://flic.kr/p/2nToMYA "pcb layout")  
 
 Automatic light. Designed to brighten up our lightless storage closet.
 

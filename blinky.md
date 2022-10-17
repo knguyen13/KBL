@@ -1,6 +1,6 @@
 ## Project blinky  
 
-![KBL2100](/docs/images/KBL2100_layout.PNG "pcb layout")  
+![KBL2100](https://flic.kr/p/2nTpHmJ "pcb layout")  
 
 LED toy
 
