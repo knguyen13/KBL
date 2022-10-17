@@ -10,7 +10,7 @@ Automatic light. Designed to brighten up our lightless storage closet.
 Lights up the closet when the door is opened and turns off when the door is closed.
 
 ***Design***  
-An stm32l0 mcu polls a magnetic sensor(reed switch) to detect when the door is opened or closed. When door open is detected, the mcu will activate the relay to connect the 12V Li-Ion battery to the light bar;
+An stm32l0 mcu polls a magnetic sensor(reed switch) to detect when the door is opened or closed. When door open is detected, the mcu will activate the relay, connecting the 12V Li-Ion battery to the light bar, turning on the light. When door close is detected, the mcu will deactivate the relay, disconnecting the light bar from the power source, causing the light to turn off.  
 
 ***Wishlist***  
 * Firmware Upgrades:
