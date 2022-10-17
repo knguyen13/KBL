@@ -1,0 +1,10 @@
+## Project blinky
+
+LED toy
+
+***Brief***
+Handheld toy with 3 LED's and 3 buttons, containing various games and light show sequences.
+
+***Design***
+This project uses an atmega328p to interact with 3 buttons and 3 LED's. 
+Contains an ICSP header to flash fw onto the device via PICkit 4.
