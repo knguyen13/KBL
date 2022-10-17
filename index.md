@@ -1,6 +1,6 @@
 ## Kevin and Brittany's Lab
 
-# Projects
+### Projects
 * [Project tofu](https://knguyen13.github.io/KBL/tofu)
 * [Project firefly](https://knguyen13.github.io/KBL/firefly)
 * [Project test](https://knguyen13.github.io/KBL/test)
