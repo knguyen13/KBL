@@ -1,6 +1,6 @@
 ## Project test  
 
-![KBL2200](https://github.com/knguyen13/KBL/blob/testing-jekyll/docs/images/KBL2200_layout.PNG "pcb layout")  
+![KBL2200](/docs/images/KBL2200_layout.PNG "pcb layout")  
 
 Breakout board for the stm32l0 mcu.
 

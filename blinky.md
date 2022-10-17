@@ -1,6 +1,6 @@
 ## Project blinky  
 
-![KBL2100](https://github.com/knguyen13/KBL/blob/testing-jekyll/docs/images/KBL2100_layout.PNG "pcb layout")  
+![KBL2100](/docs/images/KBL2100_layout.PNG "pcb layout")  
 
 LED toy
 
