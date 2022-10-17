@@ -1,6 +1,7 @@
-## Project test  
+## Test  
 
-![KBL2200](https://flic.kr/p/2nTjMo8 "pcb layout")  
+![KBL2200 rev. NC](https://live.staticflickr.com/65535/52433541806_ea62760402_q.jpg "prototype")
+![PCB layout rev. NC](https://live.staticflickr.com/65535/52432990647_7c1d45234d_q.jpg "pcb layout")  
 
 Breakout board for the stm32l0 mcu.
 

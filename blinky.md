@@ -1,6 +1,7 @@
-## Project blinky  
+## Blinky  
 
-![KBL2100](https://flic.kr/p/2nTpHmJ "pcb layout")  
+![KBL2100 rev. A](https://live.staticflickr.com/65535/52433833349_3d5e08afbe_q.jpg "prototype")
+![PCB layout rev. NC](https://live.staticflickr.com/65535/52433952670_b8c6aaf7c5_q.jpg "pcb layout")  
 
 LED toy
 
